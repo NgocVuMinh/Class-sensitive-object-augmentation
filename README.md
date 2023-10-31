@@ -8,7 +8,7 @@ The images were taken from [Acevedo et al. 2019](https://data.mendeley.com/datas
 
 Bounding box annotations were created using [Roboflow](https://roboflow.com/)
 
-**Requirements**
+## Requirements
 
 python==3.9
 
@@ -16,7 +16,7 @@ opencv-python==4.8
 
 imgaug==0.4
 
-**Scripts**
+## Scripts
 
 Run the following:
 
